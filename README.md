@@ -1,4 +1,10 @@
-# simple-java-maven-app
+## Instruqt DevOps Tooling Exercise repository
+
+This repository is used in tracks/challenges in the Continuous Integration learning path of the DevOps Curriculum.
+
+Repository is a copy of https://github.com/jenkins-docs/simple-java-maven-app
+
+### simple-java-maven-app
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
